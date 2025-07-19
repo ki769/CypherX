@@ -1,8 +1,8 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> 𝙐𝙉𝘽𝙖𝙣𝙣𝙚𝙙 𝙩𝙚𝙘𝙝  </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="CypherX docs" height="350" src="https://i.supaimg.com/0f734520-7acd-4767-a34d-15a185aff10c.jpg">
   </a>
 </p>
     
