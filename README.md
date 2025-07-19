@@ -1,4 +1,4 @@
-<h1 align="center"> 𝙐𝙉𝘽𝙖𝙣𝙣𝙚𝙙 𝙩𝙚𝙘𝙝  </h1>
+<h1 align="center"> UNBANNED TECH </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
